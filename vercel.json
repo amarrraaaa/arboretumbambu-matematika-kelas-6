@@ -1,0 +1,13 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/menu.html" },
+    { "source": "/home", "destination": "/home.html" },
+    { "source": "/game", "destination": "/game.html" },
+    { "source": "/bab1", "destination": "/bab1.html" },
+    { "source": "/bab2", "destination": "/bab2.html" },
+    { "source": "/bab3", "destination": "/bab3.html" },
+    { "source": "/bab4", "destination": "/bab4.html" }
+  ],
+  "trailingSlash": false,
+  "cleanUrls": true
+}
